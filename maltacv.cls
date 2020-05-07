@@ -214,18 +214,18 @@ boxrule=2pt,arc=0pt,boxsep=2pt,left=2pt,right=2pt,top=2pt,bottom=2pt}
 \setlength{\parindent}{0pt}
 \newcommand{\divider}{\medskip}
 
-\newcommand{\emailsymbol}{\color{light_icons}\faAt}
-\newcommand{\phonesymbol}{\color{light_icons}\faPhone}
-\newcommand{\homepagesymbol}{\color{light_icons}\faChain}
-\newcommand{\locationsymbol}{\color{light_icons}\faMapMarker}
-\newcommand{\linkedinsymbol}{\color{light_icons}\faLinkedin}
-\newcommand{\twittersymbol}{\color{light_icons}\faTwitter}
-\newcommand{\githubsymbol}{\color{light_icons}\faGithub}
-\newcommand{\orcidsymbol}{\color{light_icons}\aiOrcid}
-\newcommand{\mailsymbol}{\color{light_icons}\faEnvelope}
-\newcommand{\birthdaysymbol}{\color{light_icons}\faBirthdayCake}
+\newcommand{\emailsymbol}{\faAt}
+\newcommand{\phonesymbol}{\faPhone}
+\newcommand{\homepagesymbol}{\faChain}
+\newcommand{\locationsymbol}{\faMapMarker}
+\newcommand{\linkedinsymbol}{\faLinkedin}
+\newcommand{\twittersymbol}{\faTwitter}
+\newcommand{\githubsymbol}{\faGithub}
+\newcommand{\orcidsymbol}{\aiOrcid}
+\newcommand{\mailsymbol}{\faEnvelope}
+\newcommand{\birthdaysymbol}{\faBirthdayCake}
 
-\newcommand{\printinfo}[2]{\mbox{\makebox[1.5em][c]{\textcolor{primary}{\normalfont #1}}\hspace{0.5em}#2\hspace{2em}}}
+\newcommand{\printinfo}[2]{\mbox{\makebox[1.5em][c]{\textcolor{light_icons}{\normalfont #1}}\hspace{0.5em}\textcolor{light_body}{#2}\hspace{2em}}}
 
 \newcommand{\name}[1]{\def\@name{#1}}
 \newcommand{\firstname}[1]{\def\@firstname{#1}}
