@@ -4,6 +4,20 @@ This is the source code of my CV, inspired by the [AltaCV](https://github.com/li
 
 The name is just Manciukic + AltaCV.
 
+Examples: 
+
+Raisin black + Flame
+![Example](cv_raisinblack_flame.jpg)
+
+Outer space + Forest green
+![Example](cv_outerspace_forestgreen.jpg)
+
+Blue + Claret
+![Example](cv_blue_claret.jpg)
+
+Violet
+![Example](cv_violet.jpg)
+
 
 ## Requirements and Compilation
 I've tested it on my Fedora 32 laptop.
