@@ -1,4 +1,4 @@
-# MaltaCV: Modern CV LaTeX template
+# MAltaCV: Modern CV LaTeX template
 
 This is the source code of my CV, inspired by the [AltaCV](https://github.com/liantze/AltaCV) template.
 
